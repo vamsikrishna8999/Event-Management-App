@@ -96,3 +96,5 @@ You may also see any lint errors in the console.
 ![Alt text](<Screenshots/Screenshot 2023-09-09 212418.png>)
 
 Screenshots/Screenshot 2023-09-09 212418.png
+
+![](Screenshots/Screenshot%202023-09-09%20212418.png)
