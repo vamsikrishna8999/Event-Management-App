@@ -1,0 +1,25 @@
+npm init
+
+
+npm install express
+
+
+npm install -g nodemon   //install node monitoring
+
+
+nodemon server.js   // to run the server using nodemon
+
+
+clg ---> console.log()
+
+shift alt a comment multiple lines
+
+npm install express-async-handler
+
+npm install bcryptjs  //for hashing sensitive info
+
+npm install jsonwebtoken
+
+jwt.info
+
+npmjs.com //has details of all modules
