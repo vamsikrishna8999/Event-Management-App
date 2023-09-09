@@ -90,6 +90,7 @@ You may also see any lint errors in the console.
 - Delete Event
 ## Userprofile
 -Dashboard
+-after registering for events registered events will appear in userprofile after relogin only
 ## Signout
 -Logout from application
 
